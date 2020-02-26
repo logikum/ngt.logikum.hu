@@ -1,6 +1,5 @@
+# IDE directory
+.idea
 
-# .v4p backup files
-*~.xml
-
-# Dynamic plugins .dll
-bin/
+# Dependency directory
+node_modules

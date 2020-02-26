@@ -1,0 +1,19 @@
+{
+  "defaultLocale": "en",
+  "getRenderer": "/config/marked-renderer.js",
+
+  "session": {
+    "secret": "md-site-seed",
+    "resave": false,
+    "saveUninitialized": true
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0
+  },
+  "locale": {
+    "en": "English",
+    "hu": "magyar"
+  }
+}

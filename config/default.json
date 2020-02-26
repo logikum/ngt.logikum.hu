@@ -1,0 +1,36 @@
+{
+  "defaultLocale": "en",
+  "contents": "contents",
+  "components": "components",
+  "controls": "controls",
+  "documentFile": "document.html",
+  "layoutFile": "layout.html",
+  "referenceFile": "references.txt",
+  "localeFile": "default.json",
+  "submenuFile": "__submenu.txt",
+  "layoutSegment": "layout",
+  "contentSegment": "content",
+  "getRenderer": "/config/marked-renderer.js",
+
+  "session": {
+    "secret": "md-site-seed",
+    "resave": false,
+    "saveUninitialized": true
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0
+  },
+
+  "paths": {
+    "notFound": "/404",
+    "setLanguage": "/set-language",
+    "reboot": "/reboot",
+    "search": "/search",
+    "RandD": "/r&d",
+    "cssBootstrap": "//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+    "cssHighlight": "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/ir-black.min.css",
+    "jsHighlight": "//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"
+  }
+}

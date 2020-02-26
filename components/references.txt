@@ -1,0 +1,4 @@
+[~]: https://github.com/logikum/md-site-seed
+[md-site-seed]: ~ "|_blank"
+[let us know]: ~/issues "|_blank"
+[tudassa velünk]: ~/issues "|_blank"
