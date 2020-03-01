@@ -1,6 +1,6 @@
 {
-  "title": "[md-site-seed]",
-  "keywords": "md-site-engine, md-site-seed, markdown, node.js",
+  "title": "ng-translation",
+  "keywords": "Angular, ng-translation, i18n, l10n, internationalization, localization",
   "searchHint": "Keresés...",
   "noSearchPhrase": "Nincs keresendő szöveg.",
   "noSearchResult": "A keresett szöveg nem található az oldalakon."

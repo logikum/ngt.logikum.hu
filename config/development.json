@@ -1,9 +1,9 @@
 {
-  "defaultLocale": "en",
+  "defaultLocale": "v35",
   "getRenderer": "/config/marked-renderer.js",
 
   "session": {
-    "secret": "md-site-seed",
+    "secret": "ng-translation",
     "resave": false,
     "saveUninitialized": true
   },
@@ -13,7 +13,7 @@
     "db": 0
   },
   "locale": {
-    "en": "English",
-    "hu": "magyar"
+    "v35": "Version 3.5",
+    "v40": "Version 4.0"
   }
 }

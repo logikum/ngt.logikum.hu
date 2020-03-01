@@ -1,6 +1,6 @@
 {
-  "title": "[md-site-seed]",
-  "keywords": "md-site-engine, md-site-seed, markdown, node.js",
+  "title": "ng-translation",
+  "keywords": "Angular, ng-translation, i18n, l10n, internationalization, localization",
   "searchHint": "Search for...",
   "noSearchPhrase": "There is nothing to search.",
   "noSearchResult": "Search has not found matching content."
