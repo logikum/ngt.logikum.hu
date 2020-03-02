@@ -22,3 +22,5 @@ side-menu-depth:    1
 ======================================================================= -->
 
 # TranslatableOption
+
+{{ api/translatable-option }}

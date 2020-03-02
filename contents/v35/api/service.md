@@ -22,3 +22,5 @@ side-menu-depth:    1
 ======================================================================= -->
 
 # TranslateService
+
+{{ api/translate-service }}

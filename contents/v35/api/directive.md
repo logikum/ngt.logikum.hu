@@ -22,3 +22,7 @@ side-menu-depth:    1
 ======================================================================= -->
 
 # TranslateDirective
+
+{{ api/translate-directive-1 }}
+
+{{ api/translate-directive-2 }}

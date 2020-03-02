@@ -22,3 +22,5 @@ side-menu-depth:    1
 ======================================================================= -->
 
 # TranslatableTextList
+
+{{ api/translatable-text-list }}
