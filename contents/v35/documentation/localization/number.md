@@ -22,3 +22,19 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Number formatting
+
+If activeLanguage = 'hu', then these translation texts:
+
+{{ localization/number/format }}
+
+And this employ will produce the indicated output:
+
+<table class="splitted">
+  <tr>
+    <td>{{ localization/number/usage }}</td>
+    <td>&nbsp;</td>
+    <td>{{ localization/number/result }}</td>
+  </tr>
+</table>
+
+See options later.

@@ -22,3 +22,19 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Percent formatting
+
+If activeLanguage = 'en', then these translation texts:
+
+{{ localization/percent/format }}
+
+And this employ will produce the indicated output:
+
+<table class="splitted">
+  <tr>
+    <td>{{ localization/percent/usage }}</td>
+    <td>&nbsp;</td>
+    <td>{{ localization/percent/result }}</td>
+  </tr>
+</table>
+
+See options later.
