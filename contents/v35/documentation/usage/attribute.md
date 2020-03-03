@@ -22,3 +22,20 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Use attribute directive in views
+
+You can use the translate attribute directive to get your translated texts:
+
+{{ usage/attribute/attribute-1 }}
+
+The parameters are optional. For example:
+
+{{ usage/attribute/attribute-2 }}
+
+Or with parameter:
+
+{{ usage/attribute/attribute-3 }}
+
+You can also specify paramaters in the component:
+
+{{ usage/attribute/param-a-1 }}
+{{ usage/attribute/param-a-2 }}
