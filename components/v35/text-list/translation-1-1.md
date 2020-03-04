@@ -1,4 +1,4 @@
-```typescript
+```json
 // seasons.hu.json
 {
   "spring": {

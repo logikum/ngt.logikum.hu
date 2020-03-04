@@ -1,4 +1,4 @@
-```typescript
+```json
 // l10n.hu.json
 {
   "default": "Alap: {{ 0 | datetime }}",

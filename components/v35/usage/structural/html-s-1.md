@@ -1,6 +1,6 @@
-```typescript
+```json
 // app.en.json
 {
-  "version": "Application Name&lt;br&gt;&lt;strong&gt;Version 1.0.0&lt;/strong&gt;"
+  "version": "Application Name<br><strong>Version 1.0.0</strong>"
 }
 ```

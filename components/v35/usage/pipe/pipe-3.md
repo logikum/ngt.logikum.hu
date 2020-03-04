@@ -1,3 +1,3 @@
 ```typescript
-&lt;div&gt;{{ 'app.home.welcome' | translate:{ name: 'John' } }}&lt;/div&gt;
+<div>{{ 'app.home.welcome' | translate:{ name: 'John' } }}</div>
 ```

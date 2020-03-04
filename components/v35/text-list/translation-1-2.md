@@ -1,4 +1,4 @@
-```typescript
+```json
 // index.hu.json
 {
   "seasons": {
@@ -8,10 +8,10 @@
     "winter": "tél"
   }
 }
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+ 
+ 
+ 
+ 
+ 
+ 
 ```

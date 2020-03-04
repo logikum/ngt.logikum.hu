@@ -1,4 +1,4 @@
-```typescript
+```html
 // HTML output
 1st rate: 12%
 2nd rate: 12.345%

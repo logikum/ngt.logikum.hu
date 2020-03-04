@@ -1,4 +1,4 @@
-```typescript
+```json
 // l10n.en.json
 {
   "percent1": "1st rate: {{ 0 | percent }}",

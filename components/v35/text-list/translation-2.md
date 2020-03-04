@@ -1,4 +1,4 @@
-```typescript
+```json
 // app.en.json
 {
   ...

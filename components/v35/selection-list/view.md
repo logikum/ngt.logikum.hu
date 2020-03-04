@@ -1,9 +1,9 @@
-```typescript
-&lt;select&gt;
-  &lt;option *ngFor="let fruit of fruits"
+```html
+<select>
+  <option *ngFor="let fruit of fruits"
           [value]="fruit.<strong>value</strong>"
-          [selected]="fruit.<strong>selected</strong>"&gt;
+          [selected]="fruit.<strong>selected</strong>">
     {{ fruit.<strong>text</strong> }}
-  &lt;/option&gt;
-&lt;/select&gt;
+  </option>
+</select>
 ```

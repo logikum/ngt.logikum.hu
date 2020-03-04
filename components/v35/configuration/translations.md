@@ -1,4 +1,4 @@
-```
+```bash
 /translations
              /app.en.json
              /app.en-GB.json

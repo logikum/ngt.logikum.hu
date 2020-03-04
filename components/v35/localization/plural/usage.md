@@ -1,8 +1,8 @@
-```typescript
-&lt;ng-container *translate="let t; node: 'l10n'"&gt;
-  &lt;div&gt;{{ t('updated', 0) }}&lt;/div&gt;
-  &lt;div&gt;{{ t('updated', 1) }}&lt;/div&gt;
-  &lt;div&gt;{{ t('updated', 5) }}&lt;/div&gt;
-  &lt;div&gt;{{ t('updated', 20) }}&lt;/div&gt;
-&lt;/ng-container&gt;
+```html
+<ng-container *translate="let t; node: 'l10n'">
+  <div>{{ t('updated', 0) }}</div>
+  <div>{{ t('updated', 1) }}</div>
+  <div>{{ t('updated', 5) }}</div>
+  <div>{{ t('updated', 20) }}</div>
+</ng-container>
 ```

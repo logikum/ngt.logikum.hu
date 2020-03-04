@@ -1,3 +1,3 @@
-```typescript
-&lt;p translate="app.help.install"&gt;&lt;/p&gt;
+```html
+<p translate="app.help.install"></p>
 ```

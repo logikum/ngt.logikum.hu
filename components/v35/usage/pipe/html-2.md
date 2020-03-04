@@ -1,3 +1,3 @@
 ```typescript
-&lt;div <strong>[innerHTML]="'app.version' | translate"</strong>&gt;&lt;/div&gt;
+<div <strong>[innerHTML]="'app.version' | translate"</strong>></div>
 ```
