@@ -23,4 +23,13 @@ side-menu-depth:    1
 
 # TranslatePipe
 
+Transforms a key string to a localized texts.
+
 {{ api/translate-pipe }}
+
+<dl>
+  <dt>key: string</dt>
+  <dd>The identifier of the text.</dd>
+  <dt>values: object | Array&lt;string> | string | number | Boolean</dt>
+  <dd>The optional value or values to interpolate into the localized text.</dd>
+</dl>
