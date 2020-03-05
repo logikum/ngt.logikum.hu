@@ -23,4 +23,21 @@ side-menu-depth:    1
 
 # NgTranslationModule
 
+Set translation parameters and adds providers.
+
 {{ api/ng-translation-module }}
+
+### forRoot()
+
+Parameters:
+
+<dl>
+  <dt>config</dt>
+  <dd>The settings of the transaltions.</dd>
+</dl>
+
+<span class="code">Returns</span> the new translation module.
+
+### forChild()
+
+<span  class="code">Returns</span> the new child translation module.

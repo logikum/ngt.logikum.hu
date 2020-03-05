@@ -23,4 +23,18 @@ side-menu-depth:    1
 
 # TranslatableOption
 
+Represents an item contained in a select list.
+
 {{ api/translatable-option }}
+
+### value
+
+The value to be submitted with the form, should this option be selected.
+
+### text
+
+The text content of the item.
+
+### selected
+
+Indicates that the option is selected.
