@@ -1,3 +1,3 @@
-```typescript
-&lt;p translate="app.home.welcome" [translateParams]="{ name: 'John' }"&gt;&lt;/p&gt;
+```html
+<p translate="app.home.welcome" [translateParams]="{ name: 'John' }"></p>
 ```

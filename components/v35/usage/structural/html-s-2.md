@@ -1,5 +1,5 @@
-```typescript
-&lt;ng-container *translate="let t"&gt;
-  &lt;p <strong>[innerHTML]="t( 'app.version' )"</strong>&gt;&lt;/p&gt;
-&lt;/ng-container&gt;
+```html
+<ng-container *translate="let t">
+  <p <strong>[innerHTML]="t( 'app.version' )"</strong>></p>
+</ng-container>
 ```

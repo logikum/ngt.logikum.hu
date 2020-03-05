@@ -1,4 +1,4 @@
-```typescript
+```json
 // l10n.en.json
 {
   "updated": "This page has been updated " +

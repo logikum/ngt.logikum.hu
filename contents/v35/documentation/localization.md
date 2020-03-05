@@ -57,7 +57,7 @@ where
   <tr>
     <td></td>
     <td><code>D</code> or <code>datetime</code></td>
-    <td>for dateand time formatting</td>
+    <td>for date and time formatting</td>
   </tr>
   <tr>
     <td></td>

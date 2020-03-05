@@ -1,4 +1,4 @@
-```typescript
+```html
 // HTML output
 Alap: 2020. 01. 17.
 Rövid: 2020. 01. 17. 21:35

@@ -1,5 +1,5 @@
-```typescript
-&lt;ng-container *translate="let t"&gt;
-  &lt;p&gt;{{ t( 'app.home.welcome', profile ) }}&lt;/p&gt;
-&lt;/ng-container&gt;
+```html
+<ng-container *translate="let t">
+  <p>{{ t( 'app.home.welcome', profile ) }}</p>
+</ng-container>
 ```

@@ -1,4 +1,4 @@
-```
+```bash
 /assets
        /i18n
             /en

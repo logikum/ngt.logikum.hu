@@ -1,4 +1,4 @@
-```typescript
+```json
 // l10n.hu.json
 {
   "number1": "1. szám: {{ 0 | number }}",

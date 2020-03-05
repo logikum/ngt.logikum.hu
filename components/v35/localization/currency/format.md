@@ -1,4 +1,4 @@
-```typescript
+```json
 // l10n.it.json
 {
   "default": "Predefinito: {{ price | currency }}",

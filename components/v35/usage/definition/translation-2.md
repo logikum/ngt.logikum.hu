@@ -1,4 +1,4 @@
-```typescript
+```json
 // app.en.json
 {
   "version": "1.0.0",

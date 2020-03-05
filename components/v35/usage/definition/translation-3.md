@@ -1,4 +1,4 @@
-```typescript
+```json
 // app.auth.en.json
 {
   "userid": "User name",

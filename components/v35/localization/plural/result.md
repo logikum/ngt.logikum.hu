@@ -1,4 +1,4 @@
-```typescript
+```html
 // HTML output
 It has been updated just now.
 It has been updated one minute ago.
