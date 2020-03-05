@@ -25,13 +25,13 @@ side-menu-depth:    2
 
 The translation texts are stored in JSON files:
 
-{{ usage/definition/translation-1 }}
+{{ usage/definition/!translation-1 }}
 
 The texts may contain placeholders for values to insert runtime. Double
 curly brackets mark the placeholders in the text and are identified by
 names or ordered indeces:
 
-{{ usage/definition/placeholder }}
+{{ usage/definition/!placeholder }}
 
 See the __Parameter interpolation__ panel for more details.
 
@@ -44,7 +44,7 @@ following keys:
 
 The JSON objects can be nested:
 
-{{ usage/definition/translation-2 }}
+{{ usage/definition/!translation-2 }}
 
 In this case the keys will be:
 
