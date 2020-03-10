@@ -27,16 +27,16 @@ If the parameter is an object, the translation service searches the names its
 properties surrounded by double curly brackets. When it finds one, it will be
 replaced by the value of the given property, e.g.:
 
-{{ usage/interpolation/interpolation-1 }}
+{{ usage/interpolation/interpolation-1! }}
 
 When the parameter is an array, the translation service searches the indeces
 of the array items surrounded by double curly brackets:
 
-{{ usage/interpolation/interpolation-2 }}
+{{ usage/interpolation/interpolation-2! }}
 
 In case of the parameter being a string, number or Boolean, the search phrase
 is always &#123;<span></span>&#123;0}}:
 
-{{ usage/interpolation/interpolation-3 }}
+{{ usage/interpolation/interpolation-3! }}
 
 See the next chapter to learn how to localize the inserted values.

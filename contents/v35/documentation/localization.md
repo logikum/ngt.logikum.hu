@@ -26,7 +26,7 @@ side-menu-depth:    2
 Localization information can be added to the data placeholders of
 transalations in the following form:
 
-{{ localization/localization }}
+{{ localization/localization! }}
 
 where
 

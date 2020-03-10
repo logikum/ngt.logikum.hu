@@ -28,20 +28,20 @@ TranslatableOptionList class provides a way to do that easily. Let us assume
 that we want to create a list of fruits. Tha names of the fruits are stored
 in JSON files:
 
-{{ selection-list/translation }}
+{{ selection-list/translation! }}
 
 The TranslatableOptionList class provides the list items in an easy way:
 
-{{ selection-list/code }}
+{{ selection-list/code! }}
 
 Here _'app.fruits'_ is the key of the text node. Thereafter the fruit
 list can be used in the view:
 
-{{ selection-list/view }}
+{{ selection-list/view! }}
 
 The following properties are available:
 
-{{ selection-list/properties }}
+{{ selection-list/properties! }}
 
 The TranslatableOptionList object wil load the appropriate translation texts
 when the user changes the current language.

@@ -28,19 +28,15 @@ the controller code. For example you want to use these texts:
 
 <table>
   <tr>
-    <td>{{ text-list/translation-1-1 }}</td>
+    <td>{{ text-list/translation-1-1! }}</td>
     <td>&nbsp;</td>
-    <td>{{ text-list/translation-1-2 }}</td>
+    <td>{{ text-list/translation-1-2! }}</td>
   </tr>
 </table>
 
 You can do it like that:
 
-{{ text-list/code }}
-
-The key list can be a string, a string array or an object.
-
-{{ text-list/code }}
+{{ text-list/code! }}
 
 The key list can be a string, a string array or an object.
 
@@ -49,32 +45,32 @@ The key list can be a string, a string array or an object.
 In that case the text list will contain one item only, not very useful.
 Anyway, it can be used like that:
 
-{{ text-list/key-string }}
+{{ text-list/key-string! }}
 
 However, when the key identifies a node in the translations, all items of the
 node are returned. The items can be accessed using the property names:
 
-{{ text-list/key-node }}
+{{ text-list/key-node! }}
 
 ### Key list is string array
 
 Similar to the previous case, but several items can be fetched at a time:
 
-{{ text-list/key-array }}
+{{ text-list/key-array! }}
 
 ### Key list is object
 
 The most practical use case, as the object can be used to map the text keys
 to shorter ones:
 
-{{ text-list/key-object }}
+{{ text-list/key-object! }}
 
 ### Parameter interpolation
 
 Parameters are allowed as usual, e.g.:
 
-{{ text-list/translation-2 }}
+{{ text-list/translation-2! }}
 
 And then:
 
-{{ text-list/interpolation }}
+{{ text-list/interpolation! }}

@@ -25,4 +25,4 @@ side-menu-depth:    2
 
 First you need to install the npm module:
 
-{{ install }}
+{{ install! }}

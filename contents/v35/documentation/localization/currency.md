@@ -25,15 +25,15 @@ side-menu-depth:    2
 
 If activeLanguage = 'it', then these translation texts:
 
-{{ localization/currency/format }}
+{{ localization/currency/format! }}
 
 And this employ will produce the indicated output:
 
 <table class="splitted">
   <tr>
-    <td>{{ localization/currency/usage }}</td>
+    <td>{{ localization/currency/usage! }}</td>
     <td>&nbsp;</td>
-    <td>{{ localization/currency/result }}</td>
+    <td>{{ localization/currency/result! }}</td>
   </tr>
 </table>
 

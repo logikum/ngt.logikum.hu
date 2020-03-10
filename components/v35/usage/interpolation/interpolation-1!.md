@@ -5,7 +5,7 @@
 }
 
 // app.compoonent.html
-<div>{{ 'app.welcome' | translate:<strong>{ name: 'John' }</strong> }}</div>
+&lt;div&gt;{{ 'app.welcome' | translate:<strong>{ name: 'John' }</strong> }}&lt;/div&gt;
 
 // Output: Welcome, John!
 ```

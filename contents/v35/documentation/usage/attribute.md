@@ -25,17 +25,17 @@ side-menu-depth:    2
 
 You can use the translate attribute directive to get your translated texts:
 
-{{ usage/attribute/attribute-1 }}
+{{ usage/attribute/attribute-1! }}
 
 The parameters are optional. For example:
 
-{{ usage/attribute/attribute-2 }}
+{{ usage/attribute/attribute-2! }}
 
 Or with parameter:
 
-{{ usage/attribute/attribute-3 }}
+{{ usage/attribute/attribute-3! }}
 
 You can also specify paramaters in the component:
 
-{{ usage/attribute/param-a-1 }}
-{{ usage/attribute/param-a-2 }}
+{{ usage/attribute/param-1! }}
+{{ usage/attribute/param-2! }}

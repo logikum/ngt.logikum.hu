@@ -25,7 +25,7 @@ side-menu-depth:    2
 
 An example configuration object looks like that:
 
-{{ configuration/config }}
+{{ configuration/config! }}
 
 The configuration object has the following properties:
 
@@ -46,15 +46,15 @@ named parameters surrounded by curly brackets:
 
 In the case of the above example the following files will be downloaded:
 
-{{ configuration/assets }}
+{{ configuration/assets! }}
 
 When you use this template:
 
-{{ configuration/translation-url }}
+{{ configuration/translation-url! }}
 
 Then the following translation files will be downloaded:
 
-{{ configuration/translations }}
+{{ configuration/translations! }}
 
 All the other translation files will bo downloaded when they are needed,
 i.e. the user changes language or request a lazy loaded module.
@@ -77,24 +77,24 @@ the LoadTranslationsGuard.
 
 As an example, if you define the following route:
 
-{{ configuration/routes-1 }}
+{{ configuration/routes-1! }}
 
 Then you can define the section of the lazy loaded module like that:
 
-{{ configuration/sections-1-1 }}
+{{ configuration/sections-1-1! }}
 
 Or you can divide the translations into several sections:
 
-{{ configuration/sections-1-2 }}
+{{ configuration/sections-1-2! }}
 
 If the path is inapt as a name, you can apply an alternate section prefix on
 the route definition:
 
-{{ configuration/routes-2 }}
+{{ configuration/routes-2! }}
 
 Then the corresponding sections will be:
 
-{{ configuration/sections-2 }}
+{{ configuration/sections-2! }}
 
 ### defaultLanguage: <span class="data-type">string</span>
 
