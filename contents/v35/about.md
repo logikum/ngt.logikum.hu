@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          About
-keywords:       about site
-description:    About the md-site-seed project.
+keywords:       NgTranslation, ng-translation, Angular
+description:    About the NgTranslation project.
 --- Menu system
 order:          100
 text:           About
@@ -15,11 +15,7 @@ layout:
 searchable:     true
 ======================================================================= -->
 
-<h1 class="pull-right">
-  <img src="/images/mdse-200x52.png" title="About this site">
-</h1>
-
-# About md-site-seed
+# About ![NgTranslation](/images/ng-translation-40.png "NgTranslation")
 
 > The seed for **md-site-engine** applications.
 

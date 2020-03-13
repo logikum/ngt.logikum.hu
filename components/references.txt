@@ -1,4 +1,3 @@
-[~]: https://github.com/logikum/md-site-seed
-[md-site-seed]: ~ "|_blank"
+[~]: https://github.com/logikum/ng-translation
+[ng-translation]: ~ "|_blank"
 [let us know]: ~/issues "|_blank"
-[tudassa velünk]: ~/issues "|_blank"

@@ -254,6 +254,10 @@ ul.side-menu ul ul li {
     padding: 10px 20px;
     background-color: #f8f8f8;
 }
+.btn-primary {
+    background-color: var(--medium);
+    border-color: var(--dark);
+}
 .search-result {
     margin-bottom: 5px;
     padding: 0 1em 5px 1em;

@@ -1,5 +1,0 @@
-[~]: /columns
-[Page with 1 Column]: ~/
-[Page with 2 Columns (Left)]: ~/2-columns-left
-[Page with 2 Columns (Right)]: ~/2-columns-right
-[Page with 3 Columns]: ~/3-columns

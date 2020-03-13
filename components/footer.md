@@ -1,4 +1,4 @@
-Source: [md-site-seed] ♦ 2019-{{ #current-year }} Logikum, Ltd.
+Source: [ng-translation] ♦ 2019-{{ #current-year }} Logikum
 <br />
 <i><small>
 If you find bugs or have feature requests, please [let us know].
