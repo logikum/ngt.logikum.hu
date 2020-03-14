@@ -13,13 +13,11 @@ id:
 document:       
 layout:         
 searchable:     true
-======================================================================= -->
+======================================================================= -->_
 
 # ![NgTranslation](/images/ng-translation-70.png "NgTranslation")
 
-NgTranslation is an internationalization package for Angular 6-9 applications.
-
-See documentation: [NgTranslation](https://ngt.logikum.hu/)
+NgTranslation is an internationalization and localization package for Angular applications.
 
 Features:
 
@@ -40,7 +38,6 @@ Source code: [GitHub](https://github.com/logikum/ng-translation)
 
 Version map:
 
-* NgTranslation v4.x for Angular 9
 * NgTranslation v3.x for Angular 8
 * NgTranslation v2.x for Angular 7
 * NgTranslation v1.x for Angular 6

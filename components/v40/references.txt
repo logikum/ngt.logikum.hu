@@ -1,5 +1,0 @@
-[~]: /savok
-[1 sávos lap]: ~/
-[2 sávos lap (bal)]: ~/2-sav-bal
-[2 sávos lap (jobb)]: ~/2-sav-jobb
-[3 sávos lap]: ~/3-sav

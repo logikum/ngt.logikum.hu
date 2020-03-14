@@ -1,5 +1,5 @@
 {
-  "defaultLocale": "v35",
+  "defaultLocale": "v40",
   "getRenderer": "/config/marked-renderer.js",
 
   "session": {
