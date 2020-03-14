@@ -17,7 +17,7 @@ searchable:     true
 --- Side menu
 side-menu-root:     /api
 side-menu-header:   API
-side-menu-top:      API
+side-menu-top:      
 side-menu-depth:    1
 ======================================================================= -->
 

@@ -17,7 +17,7 @@ searchable:     true
 --- Side menu
 side-menu-root:     /documentation
 side-menu-header:   Documentation
-side-menu-top:      Installation
+side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
