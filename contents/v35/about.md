@@ -17,30 +17,18 @@ searchable:     true
 
 # About ![NgTranslation](/images/ng-translation-40.png "NgTranslation")
 
-> The seed for **md-site-engine** applications.
+NgTranslation is an internationalization and localization library for
+Angular applications.
 
-This project is an application skeleton for a typical `md-site-engine` web site.
-You can use it to quickly start your `md-site-engine` projects and development
-environment for these projects.
+For example you provide these texts in English and Hungarian languages in
+JSON files:
 
-The seed contains a sample `md-site-engine` application and it uses the default
-configuration to launch an instant web site development. The seed application
-does not do much, just shows how to put together contents, components, controls
-and public resources to create a web site. It also presents a custom `marked`
-renderer.
+{{ about/text-en! }}
 
-Source: [github.com/logikum/md-site-seed](https://github.com/logikum/md-site-seed "|_blank")
+{{ about/text-hu! }}
 
-### Framework: md-site-engine
+The following component view will display the texts in the selected language:
 
-Source: [github.com/logikum/md-site-engine](https://github.com/logikum/md-site-engine "|_blank")
+{{ about/view! }}
 
-### Documentation: md-doc-site
-
-Site: [md-doc.logikum.hu](https://md-doc.logikum.hu "|_blank")  
-Source: [github.com/logikum/md-doc-site](https://github.com/logikum/md-doc-site "|_blank")
-
-### Demonstration: md-web-site
-
-Site: [md-web.logikum.hu](https://md-web.logikum.hu "|_blank")  
-Source: [github.com/logikum/md-web-site](https://github.com/logikum/md-web-site "|_blank")
+Source: [github.com/logikum/ng-translation](https://github.com/logikum/ng-translation "|_blank")

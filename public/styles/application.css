@@ -76,6 +76,12 @@ body {
 a, a:visited {
     color: var(--medium);
 }
+blockquote {
+    background-color: var(--light);
+    border-left: var(--lighter) solid 7px;
+    font-family: Georgia, "Times New Roman", Times, serif;;
+    font-style: italic;
+}
 pre {
     padding: initial;
     border: 0;
