@@ -29,7 +29,7 @@ An example configuration object looks like that:
 
 The configuration object has the following properties:
 
-### translationUrl: <span class="data-type">string</span>
+### translationPath: <span class="data-type">string</span>
 
 The property defines the URL where NgTranslation will download the translation
 files from. The property value is a template string that has to contain 2
@@ -50,7 +50,7 @@ In the case of the above example the following files will be downloaded:
 
 When you use this template:
 
-{{ configuration/translation-url! }}
+{{ configuration/translation-path! }}
 
 Then the following translation files will be downloaded:
 
@@ -59,7 +59,15 @@ Then the following translation files will be downloaded:
 All the other translation files will bo downloaded when they are needed,
 i.e. the user changes language or request a lazy loaded module.
 
-### sections: <span class="data-type">Array&lt;string></span>
+### translationFormat: <span class="data-type">string</span>
+
+Usually the translation texts are stored in JSON files, and the default value
+of translationFormat is 'JSON'. This parameter has role only when the texts
+are stored in different format, e.g. po, xliff, resx etc., and a converter is
+used to transform the translations into JSON format. Defining this parameter
+sets the default format for all sections.
+
+### sections: <span class="data-type">Array&lt;string | Section | SectionGroup></span>
 
 All translations can be stored in a big file, however, it is easier to maintain
 them when they are divided into several smaller files. The basis of the
@@ -68,33 +76,13 @@ translation file. Even a bigger module can have more translation files. Another
 possibility is to collect the texts used application wide into one or more shared
 file. Or you can use your own strategy.
 
-he sections are the names of this divided translation files without the file
-extension. In case of lazy loaded modules the path of the module has to
-precede the file name, separated by a colon. For that the translation service
-could download the necessary translation files for the lazy loaded module,
-the path is used to filter the needed sections. The download is initiated by
-the LoadTranslationsGuard.
+The sections property enlists the translation files, or sections in other word.
+A section actually is the name of a translation file without the file extension.
+The translation service cand download the necessary translation files for a lazy
+loaded module in lazy way as well, The download is initiated by the `LoadTranslationsGuard`
+that must be provided in the route definition of the lazy loaded module.
 
-As an example, if you define the following route:
-
-{{ configuration/routes-1! }}
-
-Then you can define the section of the lazy loaded module like that:
-
-{{ configuration/sections-1-1! }}
-
-Or you can divide the translations into several sections:
-
-{{ configuration/sections-1-2! }}
-
-If the path is inapt as a name, you can apply an alternate section prefix on
-the route definition:
-
-{{ configuration/routes-2! }}
-
-Then the corresponding sections will be:
-
-{{ configuration/sections-2! }}
+See more information about section configuration on the next pages.
 
 ### defaultLanguage: <span class="data-type">string</span>
 

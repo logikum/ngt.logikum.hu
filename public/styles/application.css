@@ -15,22 +15,6 @@
     --lighter: #c2f0c2;
     --light: #ebfaeb;
 }
-.theme--liberty {
-    @extend theme;
-    --dark: #1a1b33;
-    --darker: #4d5299;
-    --medium: #545AA7;
-    --lighter: #cccee5;
-    --light: #eeeff6;
-}
- .theme--maroon {
-    @extend theme;
-     --dark: #3c1021;
-     --darker: #8c264d;
-     --medium: #b03060;
-     --lighter: #efc3d3;
-     --light: #faebf0;
- }
 
 /* Layout */
 body {
@@ -98,6 +82,13 @@ code strong {
 }
 code em {
     color: yellow;
+}
+dt {
+    margin-bottom: 2px;
+}
+dd {
+    margin-left: 20px;
+    margin-bottom: 5px;
 }
 
 /* Bootstrap navigation bar */
