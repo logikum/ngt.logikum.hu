@@ -4,7 +4,7 @@ title:          Date and time formatting
 keywords:       date, time, formatting
 description:    Date and time formatting of ng-translation.
 --- Menu system
-order:          60
+order:          50
 text:           Date and time formatting
 hidden:         false
 umbel:          false

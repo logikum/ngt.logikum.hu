@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          Number formatting
-keywords:       number, formatting
-description:    Number formatting of ng-translation.
+title:          Translation converters
+keywords:       custom, translation, converter
+description:    How to add custom translation converters to NgTranslation.
 --- Menu system
 order:          10
-text:           Number formatting
+text:           Translation converters
 hidden:         false
 umbel:          false
 --- Page properties
@@ -21,20 +21,4 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# Number formatting
-
-If activeLanguage = 'hu', then these translation texts:
-
-{{ localization/number/format! }}
-
-And this employ will produce the indicated output:
-
-<table class="splitted">
-  <tr>
-    <td>{{ localization/number/usage! }}</td>
-    <td>&nbsp;</td>
-    <td>{{ localization/number/result! }}</td>
-  </tr>
-</table>
-
-See options later.
+# Translation converters

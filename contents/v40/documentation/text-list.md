@@ -4,7 +4,7 @@ title:          Text lists
 keywords:       text, list
 description:    Localization in ng-translation.
 --- Menu system
-order:          60
+order:          70
 text:           Text lists
 hidden:         false
 umbel:          false

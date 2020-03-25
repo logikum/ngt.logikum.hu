@@ -4,7 +4,7 @@ title:          Percent formatting
 keywords:       percent, formatting
 description:    Percent formatting of ng-translation.
 --- Menu system
-order:          30
+order:          20
 text:           Percent formatting
 hidden:         false
 umbel:          false

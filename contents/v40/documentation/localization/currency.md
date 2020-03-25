@@ -4,7 +4,7 @@ title:          Currency formatting
 keywords:       currency, formatting
 description:    Currency formatting of ng-translation.
 --- Menu system
-order:          50
+order:          30
 text:           Currency formatting
 hidden:         false
 umbel:          false

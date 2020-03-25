@@ -4,7 +4,7 @@ title:          Plural rules
 keywords:       Plural rules
 description:    Plural rules of ng-translation.
 --- Menu system
-order:          70
+order:          60
 text:           Plural rules
 hidden:         false
 umbel:          false

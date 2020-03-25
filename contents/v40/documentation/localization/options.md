@@ -4,7 +4,7 @@ title:          Number, percent and currency options
 keywords:       number, percent, currency, options
 description:    Number, percent and currency options of ng-translation.
 --- Menu system
-order:          50
+order:          40
 text:           Number related options
 hidden:         false
 umbel:          false
