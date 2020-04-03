@@ -43,5 +43,5 @@ The following properties are available:
 
 {{ selection-list/properties! }}
 
-The TranslatableOptionList object wil load the appropriate translation texts
+The TranslatableOptionList object will load the appropriate translation texts
 when the user changes the current language.

@@ -22,3 +22,12 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Language list
+
+The `TranslatableLanguageList` class is a slightly modified version of the
+`TranslatableOptionList` class that makes possible to change language directly:
+
+{{ language-list/translation! }}
+
+{{ language-list/view! }}
+
+{{ language-list/code! }}
