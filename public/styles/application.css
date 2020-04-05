@@ -76,9 +76,10 @@ code.hljs {
     padding: 8px 18px;
 }
 code strong {
-    border: cyan solid thin;
-    background-color: #402050;
+    border: var(--lighter) solid thin;
+    background-color: var(--dark);
     color: unset;
+    padding: 0 3px;
 }
 code em {
     color: yellow;

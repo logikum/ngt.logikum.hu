@@ -22,3 +22,7 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Localization methods
+
+{{ localization/methods/basic! }}
+
+{{ localization/methods/param! }}

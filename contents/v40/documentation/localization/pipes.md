@@ -22,3 +22,7 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Localization pipes
+
+{{ localization/pipes/basic! }}
+
+{{ localization/pipes/param! }}
