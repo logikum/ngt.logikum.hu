@@ -23,6 +23,11 @@ side-menu-depth:    2
 
 # Localization methods
 
+The formatting rules can be also applied by the localization methods in views:
+
 {{ localization/methods/basic! }}
+
+The `number()`, `percent()`, `currency()` and `datetime()`  methods have the
+same paraneters:
 
 {{ localization/methods/param! }}

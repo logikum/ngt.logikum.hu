@@ -23,6 +23,8 @@ side-menu-depth:    2
 
 # Localization pipes
 
+The formatting rules can be applied by the following pipes in views:
+
 {{ localization/pipes/basic! }}
 
-{{ localization/pipes/param! }}
+-{{ localization/pipes/param! }}
