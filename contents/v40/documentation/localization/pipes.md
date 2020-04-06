@@ -27,4 +27,7 @@ The formatting rules can be applied by the following pipes in views:
 
 {{ localization/pipes/basic! }}
 
--{{ localization/pipes/param! }}
+The `toNumber`, `toPercent`, `toCcurrency` and `toDatetime` pipes can bes used
+with parameters as well:
+
+{{ localization/pipes/param! }}

@@ -22,3 +22,17 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Transpile extenders
+
+If needed the localization formats can be extended with new ones. The custom
+function must be defined in the module using `NGT_TRANSPILE_EXTENDER` token: 
+
+{{ custom/extender/module! }}
+
+The function has to implement the `TranspileExtender` interface. The new formats
+can defined in the `transpile()` method: 
+
+{{ custom/extender/extender! }}
+
+The following example defines the Roman number format:
+
+{{ custom/extender/roman! }}

@@ -91,6 +91,9 @@ dd {
     margin-left: 20px;
     margin-bottom: 5px;
 }
+.splitted {
+    width: 100%;
+}
 
 /* Bootstrap navigation bar */
 .navbar-default {

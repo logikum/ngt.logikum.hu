@@ -26,7 +26,7 @@ side-menu-depth:    2
 The TranslatableTextList class makes easy to handle several text items in
 the controller code. For example you want to use these texts:
 
-<table>
+<table class="splitted">
   <tr>
     <td>{{ text-list/translation-1-1! }}</td>
     <td>&nbsp;</td>

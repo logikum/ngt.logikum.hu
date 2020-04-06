@@ -27,7 +27,7 @@ The formatting rules can be also applied by the localization methods in views:
 
 {{ localization/methods/basic! }}
 
-The `number()`, `percent()`, `currency()` and `datetime()`  methods have the
-same paraneters:
+The `number()`, `percent()`, `currency()` and `datetime()` methods have the
+same parameters:
 
 {{ localization/methods/param! }}
