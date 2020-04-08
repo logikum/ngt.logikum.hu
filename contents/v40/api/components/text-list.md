@@ -4,7 +4,7 @@ title:          TranslatableTextList
 keywords:       TranslatableTextList
 description:    TranslatableTextList.
 --- Menu system
-order:          90
+order:          40
 text:           TranslatableTextList
 hidden:         false
 umbel:          false
@@ -18,14 +18,14 @@ searchable:     true
 side-menu-root:     /api
 side-menu-header:   API
 side-menu-top:
-side-menu-depth:    1
+side-menu-depth:    2
 ======================================================================= -->
 
 # TranslatableTextList
 
 Provides methods to retrieve a bunch of texts to use in code.
 
-{{ api/translatable-text-list }}
+{{ api/components/text-list }}
 
 ### constructor()
 

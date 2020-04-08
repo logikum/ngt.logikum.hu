@@ -18,7 +18,7 @@ searchable:     true
 side-menu-root:     /api
 side-menu-header:   API
 side-menu-top:      
-side-menu-depth:    1
+side-menu-depth:    2
 ======================================================================= -->
 
 # TranslateService

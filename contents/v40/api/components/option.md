@@ -4,7 +4,7 @@ title:          TranslatableOption
 keywords:       TranslatableOption
 description:    TranslatableOption.
 --- Menu system
-order:          80
+order:          20
 text:           TranslatableOption
 hidden:         false
 umbel:          false
@@ -18,14 +18,14 @@ searchable:     true
 side-menu-root:     /api
 side-menu-header:   API
 side-menu-top:      
-side-menu-depth:    1
+side-menu-depth:    2
 ======================================================================= -->
 
 # TranslatableOption
 
 Represents an item contained in a select list.
 
-{{ api/translatable-option }}
+{{ api/components/option }}
 
 ### value
 

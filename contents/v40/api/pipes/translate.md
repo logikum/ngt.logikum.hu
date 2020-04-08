@@ -4,7 +4,7 @@ title:          TranslatePipe
 keywords:       TranslatePipe
 description:    TranslatePipe.
 --- Menu system
-order:          60
+order:          10
 text:           TranslatePipe
 hidden:         false
 umbel:          false
@@ -18,14 +18,14 @@ searchable:     true
 side-menu-root:     /api
 side-menu-header:   API
 side-menu-top:      
-side-menu-depth:    1
+side-menu-depth:    2
 ======================================================================= -->
 
 # TranslatePipe
 
 Transforms a key string to a localized texts.
 
-{{ api/translate-pipe }}
+{{ api/pipes/translate }}
 
 <dl>
   <dt>key: string</dt>

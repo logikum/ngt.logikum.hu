@@ -4,7 +4,7 @@ title:          TranslationConfig
 keywords:       TranslationConfig
 description:    TranslationConfig.
 --- Menu system
-order:          20
+order:          10
 text:           TranslationConfig
 hidden:         false
 umbel:          false
@@ -18,7 +18,7 @@ searchable:     true
 side-menu-root:     /api
 side-menu-header:   API
 side-menu-top:      
-side-menu-depth:    1
+side-menu-depth:    2
 ======================================================================= -->
 
 # TranslationConfig
