@@ -94,6 +94,11 @@ dd {
 .splitted {
     width: 100%;
 }
+.code {
+    color: var(--medium);
+    font-family: monospace;
+    font-size: 1.6rem;
+}
 
 /* Bootstrap navigation bar */
 .navbar-default {

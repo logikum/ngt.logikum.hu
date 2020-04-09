@@ -25,11 +25,13 @@ side-menu-depth:    2
 
 Provides access to the translation service. Using as structural directive:
 
-{{ api/translate-directive-1 }}
+{{ api/directives/structural }}
 
 <dl>
   <dt>node: string</dt>
   <dd>The optional beginning of the text identifier for all calls.</dd>
+  <dt>localize: LocalizeContext</dt>
+  <dd>A helper object with methods to support localization.</dd>
   <dt>key: string</dt>
   <dd>The identifier of the text. If node is defined, then node and key are merged.</dd>
   <dt>values: object | Array&lt;string> | string | number | Boolean</dt>
@@ -38,7 +40,7 @@ Provides access to the translation service. Using as structural directive:
 
 Using as attribute directive:
 
-{{ api/translate-directive-2 }}
+{{ api/directives/attribute }}
 
 <dl>
   <dt>translate: string</dt>
