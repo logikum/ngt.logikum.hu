@@ -22,3 +22,21 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # TranspileExtender
+
+This interface defines a method that a custom transpile extender has to implement:
+
+{{ api/interfaces/extender }}
+
+### transpile()
+
+Creates a localized string for the provided value.
+
+<dl>
+  <dt>format</dt>
+  <dd>A name that identifies the format to apply.</dd>
+  <dt>data</dt>
+  <dd>The localization information for the parameter interpolation.</dd>
+</dl>
+
+<span class="code">Returns</span> the value formatted according to the active
+language and the provided parameters.

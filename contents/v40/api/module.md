@@ -33,7 +33,7 @@ Parameters:
 
 <dl>
   <dt>config</dt>
-  <dd>The settings of the transaltions.</dd>
+  <dd>The settings of the translations.</dd>
 </dl>
 
 <span class="code">Returns</span> the new translation module.

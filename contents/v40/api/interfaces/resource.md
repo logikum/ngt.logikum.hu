@@ -22,3 +22,32 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Resource
+
+Represents the runtime description of a translation file.
+
+{{ api/interfaces/resource }}
+
+### name
+
+The name of the translation file without the file extension.
+
+### alias
+
+An optional value used to refer to the translation items in the application
+instead of the name.
+
+### path
+
+The path of the translation file.
+
+### format
+
+The format of the translation file.
+
+### type
+
+The type of the loader used to download the translation file.
+
+### inUse
+
+Indicates whether the translation file has already been downloaded.

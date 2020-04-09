@@ -22,3 +22,23 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # FormatData
+
+Represents the localization information needed for parameter interpolation.
+
+{{ api/interfaces/format-data }}
+
+### key
+
+The key of the translation item.
+
+### locale
+
+The code of the active language.
+
+### params
+
+The localization patameters for the current value.
+
+### value
+
+The value to insert formatted.

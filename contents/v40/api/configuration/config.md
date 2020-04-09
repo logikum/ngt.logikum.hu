@@ -25,9 +25,9 @@ side-menu-depth:    2
 
 Represents the settings of the translation module.
 
-{{ api/translation-config }}
+{{ api/configuration/config }}
 
-### translationUrl
+### translationPath
 
 The property defines the URL where NgTranslation will download the translation
 files from. The property value is a template string that has to contain 2 named
@@ -40,12 +40,21 @@ parameters surrounded by curly brackets:
   <dd>The name of a partial translation file without the file extension.</dd>
 </dl>
 
+### translationFormat
+
+Defines the format of the translation files. The default value is `JSON.` This
+parameter is used in custom translation converters.
+
 ### sections
 
-The names of the translation files without the file extension.  In case of
-lazy loaded modules the path of the module has to precede the file name,
-separated by a colon.
+Defines the collection of translation files. When a simple string is used, it is
+the name of a translation file without the file extension.
 
 ### defaultLanguage
 
 The code of the default language.
+
+### disableWarnings
+
+If true, warning messages are not written to the console in production mode. The
+default value is false.

@@ -22,3 +22,31 @@ side-menu-depth:    2
 ======================================================================= -->
 
 # Section
+
+Represents the definition of a translation file.
+
+{{ api/configuration/section }}
+
+### name
+
+The name of the translation file without the file extension.
+
+### alias
+
+An optional value used to refer to the translation items in the application
+instead of the name.
+
+### path
+
+The path of the translation file when the default translationPath or the group
+path are not applicable.
+
+### format
+
+The format of the translation file when it is different from the default value
+and the group format.
+
+### type
+
+The type of the loader used to download the translation file. The default value
+is `json`.
