@@ -1,7 +1,7 @@
 ```typescript
 interface TranslatableOption {
-  value: string
-  text: string
-  selected: boolean
+  value: string;
+  text: string;
+  selected: boolean;
 }
 ```

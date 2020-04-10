@@ -1,3 +1,3 @@
 ```typescript
-{{ value | toNumber: options? }}
+{{ value | <em>toNumber</em>: options? }}
 ```

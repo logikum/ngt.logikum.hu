@@ -28,10 +28,17 @@ Transforms a date value to a localized text of the date in the active language.
 {{ api/pipes/to-datetime }}
 
 <dl>
-  <dt>value: Date | number | string</dt>
-  <dd>The value to convert to localized date-time string.</dd>
-  <dt>options: string</dt>
-  <dd>An optional semicolon separated list of valid date-time localization parameters.
+  <dt>
+    value<span class="js-type">: Date | number | string</span>
+  </dt>
+  <dd>
+    The value to convert to localized date-time string.
+  </dd>
+  <dt>
+    options<span class="js-type">: string</span>
+  </dt>
+  <dd>
+    An optional semicolon separated list of valid date-time localization parameters.
     See <a href="/documentation/localization/date-time">Date and time formatting</a>.
   </dd>
 </dl>

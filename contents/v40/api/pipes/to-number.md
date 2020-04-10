@@ -28,10 +28,17 @@ Transforms a number value to a localized text of the number in the active langua
 {{ api/pipes/to-number }}
 
 <dl>
-  <dt>value: number</dt>
-  <dd>The value to convert to localized number string.</dd>
-  <dt>options: string</dt>
-  <dd>An optional semicolon separated list of valid number localization parameters.
+  <dt>
+    value<span class="js-type">: number</span>
+  </dt>
+  <dd>
+    The value to convert to localized number string.
+  </dd>
+  <dt>
+    options<span class="js-type">: string</span>
+  </dt>
+  <dd>
+    An optional semicolon separated list of valid number localization parameters.
     See <a href="/documentation/localization/options">Number, percent and currency options</a>.
   </dd>
 </dl>

@@ -1,3 +1,3 @@
 ```typescript
-{{ 'key' | translate: values? }}
+{{ 'key' | <em>translate</em>: values? }}
 ```

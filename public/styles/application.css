@@ -81,8 +81,9 @@ code strong {
     color: unset;
     padding: 0 3px;
 }
-code em {
+code em, code em .hljs-tag {
     color: yellow;
+    font-style: normal;
 }
 dt {
     margin-bottom: 2px;
@@ -98,6 +99,10 @@ dd {
     color: var(--medium);
     font-family: monospace;
     font-size: 1.6rem;
+}
+.js-type {
+    font-weight: normal;
+    font-style: italic;
 }
 
 /* Bootstrap navigation bar */

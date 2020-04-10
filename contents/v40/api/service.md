@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          TranslateService
-keywords:       TranslateService
-description:    TranslateService.
+title:          TranslationService
+keywords:       TranslationService
+description:    TranslationService.
 --- Menu system
 order:          40
-text:           TranslateService
+text:           TranslationService
 hidden:         false
 umbel:          false
 --- Page properties
@@ -21,11 +21,11 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# TranslateService
+# TranslationService
 
 Provides methods to access the translations.
 
-{{ api/translate-service }}
+{{ api/translation-service }}
 
 ### constructor()
 
@@ -39,6 +39,10 @@ Creates a new instance of the service.
 ### activeLanguage
 
 Gets the code of the current language.
+
+### isDownloading
+
+Indicates that the download of one or more translation files is in progress.
 
 ### languageChanged
 

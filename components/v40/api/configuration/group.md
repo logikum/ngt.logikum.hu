@@ -4,6 +4,6 @@ interface SectionGroup {
   path?: string;
   format?: string;
   type?: 'json' | 'text' | 'blob' | 'arraybuffer';
-  items: Array&lt;string | Section&gt;
+  items: Array&lt; string | Section &gt;
 }
 ```

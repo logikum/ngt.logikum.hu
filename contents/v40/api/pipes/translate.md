@@ -28,8 +28,16 @@ Transforms a key string to a localized texts.
 {{ api/pipes/translate }}
 
 <dl>
-  <dt>key: string</dt>
-  <dd>The identifier of the text.</dd>
-  <dt>values: object | Array&lt;string> | string | number | Boolean</dt>
-  <dd>The optional value or values to interpolate into the localized text.</dd>
+  <dt>
+    key<span class="js-type">: string</span>
+  </dt>
+  <dd>
+    The identifier of the text.
+  </dd>
+  <dt>
+    values<span class="js-type">: object | Array&lt;string> | string | number | Boolean</span>
+  </dt>
+  <dd>
+    The optional value or values to interpolate into the localized text.
+  </dd>
 </dl>

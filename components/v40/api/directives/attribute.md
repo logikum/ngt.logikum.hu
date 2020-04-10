@@ -1,3 +1,3 @@
-```typescript
-&lt;p translate="key" [translateParams]="values"&gt&lt;/p&gt
+```xhtml
+&lt;p <em>translate</em>="key" [<em>translateParams</em>]="values"&gt&lt;/p&gt
 ```

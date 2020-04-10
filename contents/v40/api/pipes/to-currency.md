@@ -28,10 +28,17 @@ Transforms a currency value to a localized text of the currency in the active la
 {{ api/pipes/to-currency }}
 
 <dl>
-  <dt>value: CurrencyValue</dt>
-  <dd>The value to convert to localized currency string.</dd>
-  <dt>options: string</dt>
-  <dd>An optional semicolon separated list of valid currency localization parameters.
+  <dt>
+    value<span class="js-type">: CurrencyValue</span>
+  </dt>
+  <dd>
+    The value to convert to localized currency string.
+  </dd>
+  <dt>
+    options<span class="js-type">: string</span>
+  </dt>
+  <dd>
+    An optional semicolon separated list of valid currency localization parameters.
     See <a href="/documentation/localization/options">Number, percent and currency options</a>.
   </dd>
 </dl>
