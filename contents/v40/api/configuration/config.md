@@ -43,7 +43,13 @@ parameters surrounded by curly brackets:
 ### translationFormat
 
 Defines the format of the translation files. The default value is `JSON.` This
-parameter is used in custom translation converters.
+parameter is used for custom translation converters.
+
+### loaderType
+
+Defines the type of the loader used to download the translation files. The
+possible values are `'json'`, `'text'`, `'blob'` and `'arraybuffer'`, the default
+value is `'json'`, This parameter is also used for custom converters.
 
 ### sections
 

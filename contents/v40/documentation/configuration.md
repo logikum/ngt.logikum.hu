@@ -27,6 +27,10 @@ An example configuration object looks like that:
 
 {{ configuration/config! }}
 
+A typical configuration looks like that:
+
+{{ configuration/sample! }}
+
 The configuration object has the following properties:
 
 ### translationPath: <span class="data-type">string</span>
@@ -62,10 +66,16 @@ i.e. the user changes language or request a lazy loaded module.
 ### translationFormat: <span class="data-type">string</span>
 
 Usually the translation texts are stored in JSON files, and the default value
-of translationFormat is 'JSON'. This parameter has role only when the texts
+of translationFormat is `'JSON'`. This parameter has role only when the texts
 are stored in different format, e.g. po, xliff, resx etc., and a converter is
 used to transform the translations into JSON format. Defining this parameter
 sets the default format for all sections.
+
+### loaderType: <span class="data-type">LoaderType</span>
+
+It defines the type of the loader used to download the translation files. The
+possible values are `'json'`, `'text'`, `'blob'` and `'arraybuffer'`, the default
+value is `'json'`, This parameter is also used for custom converters.
 
 ### sections: <span class="data-type">Array&lt;string | Section | SectionGroup></span>
 
@@ -92,4 +102,4 @@ in the default language are downloaded at the start of the application.
 ### disableWarnings: <span class="data-type">boolean</span>
 
 An optional value to disable NgTranslation warning messages.The default
-value is false.
+value is `false`.

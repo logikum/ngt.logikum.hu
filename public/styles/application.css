@@ -104,6 +104,9 @@ dd {
     font-weight: normal;
     font-style: italic;
 }
+.data-type {
+     font-family: monospace;
+ }
 
 /* Bootstrap navigation bar */
 .navbar-default {

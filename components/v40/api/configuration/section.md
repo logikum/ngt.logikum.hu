@@ -4,6 +4,6 @@ interface Section {
   alias?: string;
   path?: string;
   format?: string;
-  type?: 'json' | 'text' | 'blob' | 'arraybuffer';
+  type?: LoaderType;
 }
 ```

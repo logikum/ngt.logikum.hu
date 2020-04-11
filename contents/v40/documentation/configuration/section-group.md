@@ -31,22 +31,22 @@ The following JSON object is an example section group:
 The section group has these properties:
 
 <dl>
-  <dt>group</dt>
+  <dt>group: <span class="data-type">string</span></dt>
   <dd>The name of the translation file collection. It must be equal to the route,
       otherwise the group name has to be specifed in the route definition.
       Se below.</dd>
-  <dt>path</dt>
+  <dt>path: <span class="data-type">string</span></dt>
   <dd>An optional path template of the translation files when it does not match
       the default template.</dd>
-  <dt>format</dt>
+  <dt>format: <span class="data-type">string</span></dt>
   <dd>An optional value that defines the translation format of the group. It is
-      used in custom format converters.</dd>
-  <dt>type</dt>
+      used for custom format converters.</dd>
+  <dt>type: <span class="data-type">LoaderType</span></dt>
   <dd>The type of the returned results expected by the downloader. The possible
       values are: <code>'json'</code>, <code>'text'</code>, <code>'blob'</code> and
        <code>'arraybuffer'</code>. The default value is <code>'json'</code>. This
-       parameter also is used in custom format converters.</dd>
-  <dt>items</dt>
+       parameter also is used for custom format converters.</dd>
+  <dt>items: <span class="data-type">Array&lt; string | Section &gt;</span></dt>
   <dd>The list of the translation files. Each file is represented by a section
       definition, or a string in simple cases</dd>
 </dl>

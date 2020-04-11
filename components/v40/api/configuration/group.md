@@ -3,7 +3,7 @@ interface SectionGroup {
   group: string;
   path?: string;
   format?: string;
-  type?: 'json' | 'text' | 'blob' | 'arraybuffer';
+  type?: LoaderType;
   items: Array&lt; string | Section &gt;
 }
 ```

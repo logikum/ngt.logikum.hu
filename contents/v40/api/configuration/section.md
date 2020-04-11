@@ -48,5 +48,5 @@ and the group format.
 
 ### type
 
-The type of the loader used to download the translation file. The default value
-is `json`.
+The type of the loader to download the translation file when it is different
+from the default value and the group format.
