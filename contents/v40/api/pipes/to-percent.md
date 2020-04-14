@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          ToPercentPipe
-keywords:       ToPercentPipe
-description:    ToPercentPipe.
+keywords:       percent, pipe, formatting
+description:    ToPercentPipe for percent formatting.
 --- Menu system
 order:          30
 text:           ToPercentPipe

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          LoaderType
-keywords:       LoaderType
-description:    LoaderType.
+keywords:       loader, type, translation, file
+description:    LoaderType defines the translation file loader.
 --- Menu system
 order:          40
 text:           LoaderType

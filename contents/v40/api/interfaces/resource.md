@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          Resource
-keywords:       Resource
-description:    Resource.
+keywords:       resource, properties, translation, file, interface
+description:    Resource interface to hold the properties of a translation file.
 --- Menu system
 order:          20
 text:           Resource

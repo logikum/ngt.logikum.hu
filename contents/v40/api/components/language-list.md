@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslatableLanguageList
-keywords:       TranslatableLanguageList
-description:    TranslatableLanguageList.
+keywords:       translatable, language, list
+description:    TranslatableLanguageList for language selection.
 --- Menu system
 order:          30
 text:           TranslatableLanguageList

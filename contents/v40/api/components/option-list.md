@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslatableOptionList
-keywords:       TranslatableOptionList
-description:    TranslatableOptionList.
+keywords:       translatable, option, list, select
+description:    TranslatableOptionList for selections.
 --- Menu system
 order:          10
 text:           TranslatableOptionList

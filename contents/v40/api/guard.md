@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          LoadTranslationsGuard
-keywords:       LoadTranslationsGuard
-description:    LoadTranslationsGuard.
+keywords:       load, translations, guard, lazy
+description:    LoadTranslationsGuard for lazy loaded modules.
 --- Menu system
 order:          30
 text:           LoadTranslationsGuard

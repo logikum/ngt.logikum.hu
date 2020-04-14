@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          Section
-keywords:       Section
-description:    Section.
+keywords:       section, configuration, interface
+description:    Section interface for configuration object.
 --- Menu system
 order:          30
 text:           Section

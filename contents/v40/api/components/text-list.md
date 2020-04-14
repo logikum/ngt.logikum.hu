@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslatableTextList
-keywords:       TranslatableTextList
-description:    TranslatableTextList.
+keywords:       translatable, text, list, code
+description:    TranslatableTextList for translations in code.
 --- Menu system
 order:          40
 text:           TranslatableTextList

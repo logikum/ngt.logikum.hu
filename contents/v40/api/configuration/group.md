@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          SectionGroup
-keywords:       SectionGroup
-description:    SectionGroup.
+keywords:       section, group, configuration, interface
+description:    SectionGroup interface for configuration object.
 --- Menu system
 order:          20
 text:           SectionGroup

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslateDirective
-keywords:       TranslateDirective
-description:    TranslateDirective.
+keywords:       translate, directive, structural, attribute
+description:    TranslateDirective for structural and attribute directives.
 --- Menu system
 order:          50
 text:           TranslateDirective

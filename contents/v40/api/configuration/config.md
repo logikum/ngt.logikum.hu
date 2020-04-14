@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslationConfig
-keywords:       TranslationConfig
-description:    TranslationConfig.
+keywords:       TranslationConfig, configuration
+description:    TranslationConfig configuration object.
 --- Menu system
 order:          10
 text:           TranslationConfig

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          FormatData
-keywords:       FormatData
-description:    FormatData.
+keywords:       format, data, localization, interface
+description:    FormatData interface to hold localization information.
 --- Menu system
 order:          40
 text:           FormatData

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranspileExtender
-keywords:       TranspileExtender
-description:    TranspileExtender.
+keywords:       transpile, extender, custom, interface, interpolation
+description:    TranspileExtender interface for custom paramater interpolation.
 --- Menu system
 order:          30
 text:           TranspileExtender

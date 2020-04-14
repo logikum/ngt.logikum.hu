@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          ToCurrencyPipe
-keywords:       ToCurrencyPipe
-description:    ToCurrencyPipe.
+keywords:       currency, pipe, formatting
+description:    ToCurrencyPipe for currency formatting.
 --- Menu system
 order:          40
 text:           ToCurrencyPipe

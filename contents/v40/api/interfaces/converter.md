@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslationConverter
-keywords:       TranslationConverter
-description:    TranslationConverter.
+keywords:       translation, converter, format, custom, interface
+description:    TranslationConverter interface for custom format translation files.
 --- Menu system
 order:          10
 text:           TranslationConverter

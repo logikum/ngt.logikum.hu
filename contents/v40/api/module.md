@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          NgTranslationModule
-keywords:       NgTranslationModule
+keywords:       NgTranslationModule, module
 description:    NgTranslationModule.
 --- Menu system
 order:          10

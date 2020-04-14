@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          ToDatetimePipe
-keywords:       ToDatetimePipe
-description:    ToDatetimePipe.
+keywords:       datetime, date, time, pipe, formatting
+description:    ToDatetimePipe for date and time formatting.
 --- Menu system
 order:          50
 text:           ToDatetimePipe

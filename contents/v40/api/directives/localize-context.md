@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          LocalizeContext
-keywords:       LocalizeContext
-description:    LocalizeContext
+keywords:       localize, context, parameter
+description:    LocalizeContext for parameter localization
 --- Menu system
 order:          10
 text:           LocalizeContext

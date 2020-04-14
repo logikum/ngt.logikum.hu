@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          CurrencyValue
-keywords:       CurrencyValue
-description:    CurrencyValue
+keywords:       currency, value
+description:    CurrencyValue to hold number and currency code.
 --- Menu system
 order:          20
 text:           CurrencyValue

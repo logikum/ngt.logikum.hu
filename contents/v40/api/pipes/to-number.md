@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          ToNumberPipe
-keywords:       ToNumberPipe
-description:    ToNumberPipe.
+keywords:       number, pipe, formatting
+description:    ToNumberPipe for number formatting.
 --- Menu system
 order:          20
 text:           ToNumberPipe

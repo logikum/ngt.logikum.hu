@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslatePipe
-keywords:       TranslatePipe
-description:    TranslatePipe.
+keywords:       translate, pipe
+description:    TranslatePipe to display translatted text.
 --- Menu system
 order:          10
 text:           TranslatePipe

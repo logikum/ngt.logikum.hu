@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          TranslationService
-keywords:       TranslationService
-description:    TranslationService.
+keywords:       translation, service
+description:    TranslationService for internationalization adn localization.
 --- Menu system
 order:          40
 text:           TranslationService
