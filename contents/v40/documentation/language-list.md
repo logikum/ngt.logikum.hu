@@ -2,7 +2,7 @@
 --- Search engine
 title:          Language list
 keywords:       language, list
-description:    Localization in ng-translation.
+description:    Language selection component of NgTranslation module.
 --- Menu system
 order:          60
 text:           Language list

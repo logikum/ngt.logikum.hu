@@ -2,7 +2,7 @@
 --- Search engine
 title:          Percent formatting
 keywords:       percent, formatting
-description:    Percent formatting of ng-translation.
+description:    Percent formatting using NgTranslation features.
 --- Menu system
 order:          20
 text:           Percent formatting

@@ -2,7 +2,7 @@
 --- Search engine
 title:          Number formatting
 keywords:       number, formatting
-description:    Number formatting of ng-translation.
+description:    Number formatting using NgTranslation features.
 --- Menu system
 order:          10
 text:           Number formatting

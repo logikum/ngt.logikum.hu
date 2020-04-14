@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          Parameter interpolation
-keywords:       Parameter interpolation
+keywords:       parameter, interpolation
 description:    Parameter interpolation.
 --- Menu system
 order:          60

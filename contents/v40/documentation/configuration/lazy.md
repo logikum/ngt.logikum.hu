@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
-title:          Configuration section group
-keywords:       configuration, section group
-description:    Setting translation section groups for lazy loaded modules.
+title:          Lazy loaded modules
+keywords:       configuration, lazy, loaded, module
+description:    Setting translation files for lazy loaded modules.
 --- Menu system
 order:          40
 text:           Lazy loaded module

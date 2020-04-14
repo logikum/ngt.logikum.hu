@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
-title:          Configuration section group
-keywords:       configuration, section group
+title:          Section group
+keywords:       configuration, section, group
 description:    The definition of translation section groups.
 --- Menu system
 order:          20

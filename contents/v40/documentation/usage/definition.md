@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          Define translations
-keywords:       configuration
-description:    Define translations.
+title:          Translation files
+keywords:       translations, files
+description:    How to provide translation files.
 --- Menu system
 order:          10
-text:           Define translations
+text:           Translation files
 hidden:         false
 umbel:          false
 --- Page properties
@@ -21,7 +21,7 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# Define translations
+# Translation files
 
 The translation texts are stored in JSON files:
 
@@ -59,3 +59,6 @@ Then the keys will be:
 {{ usage/definition/keys-3! }}
 
 The section prefixes of lazy loaded modules will not be part of the keys.
+
+> Using a format other than JSON requires to create a
+> [custom translation converter](/documentation/custom/converter).

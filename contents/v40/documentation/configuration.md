@@ -2,7 +2,7 @@
 --- Search engine
 title:          Configuration
 keywords:       configuration
-description:    Configuration of ng-translation.
+description:    Configuration of NgTranslation module.
 --- Menu system
 order:          20
 text:           Configuration

@@ -2,7 +2,7 @@
 --- Search engine
 title:          Text lists
 keywords:       text, list
-description:    Localization in ng-translation.
+description:    Text list component of NgTranslation module.
 --- Menu system
 order:          70
 text:           Text lists

@@ -1,6 +1,6 @@
 <!-- ======================================================================
 --- Search engine
-title:          Use structural directive in views
+title:          Structural directive
 keywords:       structural, directive
 description:    Use structural directive in views.
 --- Menu system

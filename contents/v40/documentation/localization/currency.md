@@ -2,7 +2,7 @@
 --- Search engine
 title:          Currency formatting
 keywords:       currency, formatting
-description:    Currency formatting of ng-translation.
+description:    Currency formatting using NgTranslation features.
 --- Menu system
 order:          30
 text:           Currency formatting

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
-title:          Configuration section
-keywords:       configuration, section
-description:    Setting translation sections for eagerly loaded modules.
+title:          Eagerly loaded modules
+keywords:       configuration, eagerly, loaded, module
+description:    Setting translation files for eagerly loaded modules.
 --- Menu system
 order:          30
 text:           Eagerly loaded module

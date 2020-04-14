@@ -2,7 +2,7 @@
 --- Search engine
 title:          Selection lists
 keywords:       selection, list
-description:    Selection lists in ng-translation.
+description:    Selection list component of NgTranslation module.
 --- Menu system
 order:          50
 text:           Selection lists

@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
 title:          About
-keywords:       NgTranslation, ng-translation, Angular
-description:    About the NgTranslation project.
+keywords:       about
+description:    About the NgTranslation package.
 --- Menu system
 order:          100
 text:           About

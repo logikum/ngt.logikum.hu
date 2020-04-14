@@ -2,7 +2,7 @@
 --- Search engine
 title:          Localization
 keywords:       localization, l10n
-description:    Localization in ng-translation.
+description:    Localization using NgTranslation features.
 --- Menu system
 order:          40
 text:           Localization

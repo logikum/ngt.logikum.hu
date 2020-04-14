@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          Use pipe in views
-keywords:       configuration
-description:    Use pipe in views.
+title:          Translation pipe
+keywords:       translation, pipe
+description:    Using translation pipes in views.
 --- Menu system
 order:          30
-text:           Pipe
+text:           Translation pipe
 hidden:         false
 umbel:          false
 --- Page properties
@@ -21,7 +21,7 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# Use pipe in views
+# Using translation pipes in views
 
 You can use the translate pipe to get your translation values:
 

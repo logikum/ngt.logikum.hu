@@ -2,10 +2,10 @@
 --- Search engine
 title:          Localization methods
 keywords:       localization, methods
-description:    Localization methods of ng-translation.
+description:    Localization methods in NgTranslation.
 --- Menu system
 order:          80
-text:           Methods
+text:           Localization methods
 hidden:         false
 umbel:          false
 --- Page properties

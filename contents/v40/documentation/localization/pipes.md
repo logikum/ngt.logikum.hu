@@ -2,10 +2,10 @@
 --- Search engine
 title:          Localization pipes
 keywords:       localization, pipes
-description:    Localization pipes of ng-translation.
+description:    Localization pipes in NgTranslation.
 --- Menu system
 order:          70
-text:           Pipes
+text:           Localization pipes
 hidden:         false
 umbel:          false
 --- Page properties

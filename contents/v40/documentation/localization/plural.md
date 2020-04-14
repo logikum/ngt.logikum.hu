@@ -2,7 +2,7 @@
 --- Search engine
 title:          Plural rules
 keywords:       Plural rules
-description:    Plural rules of ng-translation.
+description:    Plural rules of NgTranslation.
 --- Menu system
 order:          60
 text:           Plural rules

@@ -2,7 +2,7 @@
 --- Search engine
 title:          Date and time formatting
 keywords:       date, time, formatting
-description:    Date and time formatting of ng-translation.
+description:    Date and time formatting using NgTranslation features.
 --- Menu system
 order:          50
 text:           Date and time formatting

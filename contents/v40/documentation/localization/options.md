@@ -2,7 +2,7 @@
 --- Search engine
 title:          Number, percent and currency options
 keywords:       number, percent, currency, options
-description:    Number, percent and currency options of ng-translation.
+description:    Number, percent and currency options in NgTranslation.
 --- Menu system
 order:          40
 text:           Number related options

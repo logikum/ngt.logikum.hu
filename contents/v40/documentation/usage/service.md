@@ -1,11 +1,11 @@
 <!-- ======================================================================
 --- Search engine
-title:          Use service in components
-keywords:       service
-description:    Use service in components.
+title:          Translation service
+keywords:       translation, service
+description:    Using translation service in components.
 --- Menu system
 order:          50
-text:           Use service in components
+text:           Translation service
 hidden:         false
 umbel:          false
 --- Page properties
@@ -21,7 +21,7 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# Use service in components
+# Using translation service in components
 
 Instantiate the translation service in the component:
 

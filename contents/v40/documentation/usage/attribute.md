@@ -1,8 +1,8 @@
 <!-- ======================================================================
 --- Search engine
-title:          Use attribute directive in views
+title:          Attribute directive
 keywords:       attribute, directive
-description:    Use attribute directive in views.
+description:    Using attribute directive in views.
 --- Menu system
 order:          40
 text:           Attribute directive
@@ -21,7 +21,7 @@ side-menu-top:
 side-menu-depth:    2
 ======================================================================= -->
 
-# Use attribute directive in views
+# Using attribute directive in views
 
 You can use the translate attribute directive to get your translated texts:
 

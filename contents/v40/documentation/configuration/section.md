@@ -1,6 +1,6 @@
 <!-- ======================================================================
 --- Search engine
-title:          Configuration section
+title:          Section
 keywords:       configuration, section
 description:    The definition of translation sections.
 --- Menu system

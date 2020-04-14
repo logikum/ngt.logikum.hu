@@ -2,7 +2,7 @@
 --- Search engine
 title:          Setup
 keywords:       setup
-description:    Set up the ng-translation package.
+description:    Set up the NgTranslation package.
 --- Menu system
 order:          10
 text:           Setup

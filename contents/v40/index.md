@@ -1,7 +1,7 @@
 <!-- ======================================================================
 --- Search engine
 title:          NgTranslation
-keywords:       NgTranslation, ng-translation, Angular
+keywords:       home
 description:    Home page of NgTranslation i18n & l10n package for Angular.
 --- Menu system
 order:          
