@@ -1,0 +1,9 @@
+```bash
+/translations
+             /app.en.json
+             /app.en-GB.json
+             /app.hu.json
+             /common.en.json
+             /common.en-GB.json
+             /common.hu.json
+```
