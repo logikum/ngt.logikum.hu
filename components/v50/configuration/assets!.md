@@ -1,0 +1,13 @@
+```bash
+/assets
+       /i18n
+            /en
+               /app.json
+               /common.json
+            /en-GB
+                  /app.json
+                  /common.json
+            /hu
+               /app.json
+               /common.json
+```
