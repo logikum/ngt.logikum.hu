@@ -130,3 +130,7 @@ the second argument.
 </dl>
 
 <span class="code">Returns</span> the translated text.
+
+<h3>number()<br>percent()<br>currency()<br>ccy()<br>datetime()</h3>
+
+Localization helper methods. See [LocalizeContext](/api/directives/localize-context).

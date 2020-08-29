@@ -34,3 +34,8 @@ Then you can get the translation texts:
 You must get the translation texts again after the current language has changed.
 Another solution is to use the TranslatableTextList or TranslatableOptionList
 classes to manage the translations because they update their texts automatically.
+
+The service provides localization helper methods for formatting values, e.g.
+message strings to build in the components:
+
+{{ usage/service/helper! }}

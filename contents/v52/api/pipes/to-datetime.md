@@ -4,7 +4,7 @@ title:          ToDatetimePipe
 keywords:       datetime, date, time, pipe, formatting
 description:    ToDatetimePipe for date and time formatting.
 --- Menu system
-order:          50
+order:          60
 text:           ToDatetimePipe
 hidden:         false
 umbel:          false

@@ -31,3 +31,8 @@ The `number()`, `percent()`, `currency()` and `datetime()` methods have the
 same parameters:
 
 {{ localization/methods/param! }}
+
+The currency method has an alternate version `ccy` that accepts separate value
+and currency code:
+
+{{ localization/methods/ccy! }}

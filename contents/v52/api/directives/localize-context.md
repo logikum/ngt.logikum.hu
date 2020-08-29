@@ -40,7 +40,7 @@ Transforms a number value to a localized text of the number in the active langua
   </dd>
 </dl>
 
-<span class="code">Returns</span> a localized number string.
+<span class="code">Returns</span> the localized number string.
 
 ### percent()
 
@@ -55,7 +55,7 @@ Transforms a number value to a localized text of percent in the active language.
   </dd>
 </dl>
 
-<span class="code">Returns</span> a localized percent string.
+<span class="code">Returns</span> the localized percent string.
 
 ### currency()
 
@@ -70,7 +70,24 @@ Transforms a currency value to a localized text of the currency in the active la
   </dd>
 </dl>
 
-<span class="code">Returns</span> a localized currency string.
+<span class="code">Returns</span> the localized currency string.
+
+### ccy()
+
+Transforms a number and a currency code to a localized text of the currency in the active language.
+
+<dl>
+  <dt>value</dt>
+  <dd>The value to convert to localized currency string.</dd>
+  <dt>currencyCode</dt>
+  <dd>The currency code used in the conversion.</dd>
+  <dt>options</dt>
+  <dd>An optional semicolon separated list of valid currency localization parameters.
+    See <a href="/documentation/localization/options">Number, percent and currency options</a>.
+  </dd>
+</dl>
+
+<span class="code">Returns</span> the localized currency string.
 
 ### datetime()
 
@@ -85,4 +102,4 @@ Transforms a date value to a localized text of the date in the active language.
   </dd>
 </dl>
 
-<span class="code">Returns</span> a localized date-time string.
+<span class="code">Returns</span> the localized date-time string.
