@@ -283,3 +283,13 @@ ul.side-menu ul ul li {
 mark {
     background-color: yellow;
 }
+pre code {
+    background-color: #000;
+    color: #f9f9f9;
+    display: block;
+}
+pre code span.hljs-comment,
+pre code span.hljs-meta,
+pre code span.hljs-meta-keyword {
+    color: #999999;
+}
