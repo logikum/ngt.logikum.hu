@@ -1,3 +1,3 @@
 ```typescript
-{ ame: 'autumn' }
+{ name: 'autumn' }
 ```

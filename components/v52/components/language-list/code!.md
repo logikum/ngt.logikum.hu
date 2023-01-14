@@ -5,7 +5,7 @@ export class AppComponent implements OnInit {
   languages: TranslatableLanguageList;
 
   constructor(
-    private translate: >TranslationService
+    private translate: TranslationService
   ) {
     this.languages = new TranslatableLanguageList( translate, 'app.languages' );
   }
