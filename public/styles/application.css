@@ -66,25 +66,6 @@ blockquote {
     font-family: Georgia, "Times New Roman", Times, serif;;
     font-style: italic;
 }
-pre {
-    padding: initial;
-    border: 0;
-    border-radius: 0;
-}
-code.hljs {
-    font-size: 14px;
-    padding: 8px 18px;
-}
-code strong {
-    border: var(--lighter) solid thin;
-    background-color: var(--dark);
-    color: unset;
-    padding: 0 3px;
-}
-code em, code em .hljs-tag {
-    color: yellow;
-    font-style: normal;
-}
 dt {
     margin-bottom: 2px;
 }
@@ -283,13 +264,21 @@ ul.side-menu ul ul li {
 mark {
     background-color: yellow;
 }
-pre code {
-    background-color: #000;
-    color: #f9f9f9;
-    display: block;
+
+/* highlight.js patch */
+pre {
+    padding: initial;
+    border: 0;
+    border-radius: 0;
 }
-pre code span.hljs-comment,
-pre code span.hljs-meta,
-pre code span.hljs-meta-keyword {
-    color: #999999;
+pre code.hljs {
+    padding: 8px 18px;
+}
+pre code strong {
+    border-bottom: #7FFF00 1px solid;
+    font-weight: normal;
+}
+pre code em, code em .hljs-tag {
+    color: #FFF01F;
+    font-style: normal;
 }
