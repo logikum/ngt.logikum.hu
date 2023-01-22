@@ -1,5 +1,5 @@
 {
-  "defaultLocale": "v52",
+  "defaultLocale": "v70",
   "getRenderer": "/config/marked-renderer.js",
 
   "session": {
@@ -13,8 +13,7 @@
     "db": 0
   },
   "locale": {
-    "v35": "Version 3.5",
-    "v42": "Version 4.2",
-    "v52": "Version 5.2"
+    "v52": "Version 5.2",
+    "v70": "Version 7.0"
   }
 }

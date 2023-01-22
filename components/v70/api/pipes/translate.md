@@ -1,0 +1,3 @@
+```typescript
+{{ 'key' | ~translate~~: values? }}
+```
