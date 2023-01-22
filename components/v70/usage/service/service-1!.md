@@ -1,0 +1,5 @@
+```
+constructor(
+  private ^translate: TranslationService^^
+) { }
+```
