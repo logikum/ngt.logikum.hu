@@ -1,3 +1,5 @@
+hljs.highlightAll();
+
 document.addEventListener("DOMContentLoaded", () => {
   setTimeout(() => {
     const elements = document.getElementsByTagName('code');
@@ -11,3 +13,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }, 100);
 });
+
+(function() {
+  $("input[name=text2search]").keyup(function() {
+    var submit = $(this).closest("form").find(":submit");
+    if ($(this).val().length < 3)
+      submit.attr("disabled","disabled");
+    else
+      submit.removeAttr("disabled");
+  });
+})();
