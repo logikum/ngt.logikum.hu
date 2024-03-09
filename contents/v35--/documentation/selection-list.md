@@ -25,7 +25,7 @@ side-menu-depth:    2
 
 The translation of the texts of a selection list is a frequent task. The
 TranslatableOptionList class provides a way to do that easily. Let us assume
-that we want to create a list of fruits. Tha names of the fruits are stored
+that we want to create a list of fruits. The names of the fruits are stored
 in JSON files:
 
 {{ selection-list/translation! }}

@@ -24,7 +24,7 @@ side-menu-depth:    2
 # Configuration of lazy loaded modules
 
 The translation files of a lazy loaded module are loaded with the module only
-if the route definition of the module contains the `LoadTranslationGuard`. The
+if the route definition of the module contains the `LoadTranslationsGuard`. The
 name of the section group must be equal to the route path by default.
 
 Let's take the following routes:

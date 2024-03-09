@@ -1,0 +1,3 @@
+```typescript
+{{ value | ~toCcy~~: options }}
+```

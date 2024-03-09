@@ -23,7 +23,7 @@ side-menu-depth:    2
 
 # TranslationChange
 
-This type describes a change occurred in tha state of the translation service
+This type describes a change occurred in the state of the translation service
 due to downloading translation files.
 
 {{ api/services/translation-change }}

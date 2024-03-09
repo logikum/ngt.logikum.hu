@@ -110,7 +110,7 @@ the neutral language (i.e. en), then the neutral language will be used.
 
 ### disableWarnings: <span class="data-type">boolean</span>
 
-An optional value to disable NgTranslation warning messages.The default
+An optional value to disable NgTranslation warning messages. The default
 value is `false`.
 
 ### currencyDefaultOptions: <span class="data-type">object</span>
